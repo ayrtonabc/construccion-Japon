@@ -46,7 +46,7 @@
   "intro": {
     "paragraph_1": "Zostaw nam swoje potrzeby rekrutacyjne w Europie!",
     "paragraph_2": "W ostatnich latach otoczenie gospodarcze staje się coraz trudniejsze, a konkurencja między rywalizującymi firmami będzie w przyszłości jeszcze bardziej zacięta. W tej sytuacji szybkie pozyskanie utalentowanych osób i wyprzedzenie konkurencji jest ważnym czynnikiem w budowaniu przewagi konkurencyjnej.",
-    "paragraph_3": "W pełni wykorzystujemy naszą globalną sieć oraz najnowocześniejsze systemy IT, w tym „Inteligentny System Oceny” i „System Pełnej Automatyzacji Skanowania CV”, co pozwala nam szybko wyszukiwać kandydatów przez 24 godziny na dobę. Nasz zespół rekrutacyjny działa pod hasłem „firma rekrutacyjna, która walczy 24 godziny na dobę”, kładąc nacisk na szybkość i jakość.",
+    "paragraph_3": "W pełni wykorzystujemy naszą globalną sieć oraz najnowocześniejsze systemy IT, w tym „Inteligentny System Oceny" i „System Pełnej Automatyzacji Skanowania CV", co pozwala nam szybko wyszukiwać kandydatów przez 24 godziny na dobę. Nasz zespół rekrutacyjny działa pod hasłem „firma rekrutacyjna, która walczy 24 godziny na dobę", kładąc nacisk na szybkość i jakość.",
     "paragraph_4": "Dzięki bogatemu doświadczeniu w headhuntingu w całej Europie, jesteśmy liderem w branży rekrutacyjnej, oferując najwyższej klasy usługi i przedstawiając precyzyjnie dobranych kandydatów w rozsądnych cenach.",
     "paragraph_5": "Aby dokładnie zrozumieć, jakiego rodzaju osoby poszukuje firma, uważnie wsłuchujemy się в ich prośby w języku japońskim. Nasi konsultanci priorytetowo traktują dogłębne zrozumienie zarówno kandydatów, jak i firm, aby zapewnić najlepsze dopasowanie.",
     "paragraph_6": "Z dumą obsługujemy następujące kraje:",
@@ -55,11 +55,11 @@
   "services": {
     "service_1": {
       "title": "Zaawansowana Technologia AI",
-      "description": "Jako pierwsi w branży wdrożyliśmy najnowocześniejsze systemy IT, w tym nasz „Inteligentny System Oceny” oraz „System Pełnej Automatyzacji Skanowania CV”."
+      "description": "Pierwsi w branży wdrożyliśmy najnowocześniejsze systemy IT, w tym nasz 'Inteligentny System Oceny' oraz 'System Pełnej Automatyzacji Skanowania CV'."
     },
     "service_2": {
       "title": "Rekrutacja 24/7",
-      "description": "Nasz zespół działa pod hasłem „firma rekrutacyjna, która walczy 24 godziny na dobę”, kładąc nacisk na szybkość i jakość naszych działań rekrutacyjnych."
+      "description": "Nasz zespół działa pod hasłem 'firma rekrutacyjna, która walczy 24 godziny na dobę', kładąc nacisk na szybkość i jakość naszych działań rekrutacyjnych."
     },
     "service_3": {
       "title": "Europejska Ekspertyza",
@@ -96,61 +96,61 @@
         "final_message": "Wspieramy rozwój kariery i sukces wszystkich osób poszukujących pracy w Europie!"
       }
     },
-     "for_companies": {
-    "title": "Dla Firm",
-    "description": "Rekrutacja w Europie zazwyczaj zajmuje dużo czasu, ale my korzystamy z najnowszych technologii IT i AI, aby priorytetowo traktować szybkość i efektywność naszych działań rekrutacyjnych.",
-    "button": "Jak to działa?",
-    "modal": {
-      "main_title": "Mechanizm Usługi",
-      "sections": [
-        {
-          "title": "Przedstawienie Kandydatów w Ciągu 24 Godzin (z Wyjątkiem Headhuntingu i Specjalnych Stanowisk)",
-          "content": "Wyposażeni w najnowsze funkcje rekrutacyjne IT i AI, terminowo przedstawiamy doskonałych kandydatów!"
-        },
-        {
-          "title": "Krok Przed Konkurencją",
-          "content": "W obliczu rosnącej konkurencji między firmami, zabezpieczenie bardziej utalentowanych pracowników przed konkurencją szybko i sprawnie jest ważnym czynnikiem w ustanowieniu przewagi konkurencyjnej. Jako 'firma rekrutacyjna działająca 24 godziny na dobę', wykorzystujemy najnowszą technologię IT, aby osiągnąć działania rekrutacyjne, które dążą do szybkości, jakości i wysokiej efektywności."
-        },
-        {
-          "title": "Działania Rekrutacyjne w Erze Bez Granic",
-          "content": "Dzięki wykorzystaniu najnowszej technologii IT, działania rekrutacyjne stają się bezgraniczne. Ustanowiliśmy centrum badawczo-oceniające w Polsce, które obejmuje całą Europę, prowadząc działania rekrutacyjne w Polsce, Niemczech, Belgii, Czechach, Słowacji, Wielkiej Brytanii, Francji, na Węgrzech, w Rumunii i na Ukrainie."
-        },
-        {
-          "title": "Rekrutacja Doskonałych Talentów od Konkurencji poprzez Headhunting",
-          "content": "Mamy bogate doświadczenie w headhuntingu w Europie i przedstawiamy precyzyjnie dobranych kandydatów w rozsądnych cenach. Jako podwykonawca dla jednej z wiodących niemieckich firm headhuntingowych, prowadzimy działania headhuntingowe głównie w Niemczech, Francji, Belgii, Polsce, Czechach, Słowacji, na Węgrzech i w Rumunii, a nasza moc headhuntingowa jest na najwyższym poziomie wśród europejskich firm rekrutacyjnych."
-        },
-        {
-          "title": "Dążenie do Nagłego Wzrostu Wyników dzięki Headhuntingowi",
-          "content": "Headhunting jest powszechną metodą w Europie dla firm, które chcą poprawić wyniki lub zatrudnić kluczowych pracowników od konkurencji. Na przykład, jeśli firma sprzedażowa zatrudni Sales Managera, Key Account Managera lub Marketing Managera od konkurenta z największym udziałem w rynku, może uzyskać wszystkie kluczowe informacje dotyczące działalności biznesowej, takie jak informacje o klientach, ceny sprzedaży, ceny zakupu, metody logistyki, metody sprzedaży, marketing i dostawcy, i znacznie poprawić wyniki dzięki zatrudnieniu takich kluczowych osób."
-        },
-        {
-          "title": "Największa Wielonarodowa Baza Danych Talentów w Przemyśle Rekrutacyjnym w Europie",
-          "content": "Posiadamy bogatą bazę danych osób pro-japońskich, mówiących po japońsku i rozumiejących japońską kulturę korporacyjną w różnych krajach europejskich (Niemcy, Wielka Brytania, Belgia, Francja, Polska, Czechy, Słowacja, Węgry, Rumunia, Ukraina itp.), i przedstawiamy najlepszych kandydatów dla japońskich firm."
-        },
-        {
-          "title": "16 Lat Osiągnięć w Rekrutacji Talentów",
-          "content": "Dzięki systemowi oceny talentów wypracowanemu przez ponad 16 lat doświadczenia, wybieramy talenty, które pasują lub nie pasują do kultury korporacyjnej japońskich firm, i przedstawiamy najlepszych i wysoko zatrzymywanych talentów. Od naszego założenia w 2009 roku, przedstawiliśmy talenty ponad 540 firmom i otrzymaliśmy wysokie oceny za wysoki wskaźnik dopasowania i zatrzymania zatrudnionych talentów."
-        },
-        {
-          "title": "Doświadczenie w Przeprowadzaniu Wywiadów z Ponad 30 000 Kandydatami",
-          "content": "W procesie selekcji talentów zawsze pojawia się wahanie. Konieczne jest określenie zdolności, osobowości i adaptacyjności kandydata w krótkim czasie podczas 1-2 godzinnej rozmowy kwalifikacyjnej przed zatrudnieniem. Dzięki 16-letniemu doświadczeniu w przeprowadzaniu wywiadów z ponad 30 000 kandydatami, dokładnie doradzamy w sprawie cech, mocnych i słabych stron kandydatów na podstawie profilu talentów poszukiwanych przez firmę."
-        },
-        {
-          "title": "Indywidualne Badania Wynagrodzeń dla Nowych Regionów Wejścia",
-          "content": "Dla firm planujących wejście na nowe regiony, przeprowadzamy badania wynagrodzeń firm w docelowych regionach i dostarczamy raporty. Nawet w tym samym kraju, poziomy wynagrodzeń mogą znacznie się różnić w zależności od regionu, stopy bezrobocia i obecności firm z stosunkowo wysokimi wynagrodzeniami, dlatego zaleca się przeprowadzenie badań wynagrodzeń firm w docelowych regionach z wyprzedzeniem."
-        },
-        {
-          "title": "Pierwsze w Przemyśle Rekrutacyjnym!",
-          "content": "<Zaawansowany Technologicznie Inteligentny System>\nWłasna Zaawansowana Technologia IT\n① 'Pełnie Zautomatyzowany System Skanowania CV'\n(System, który automatycznie odczytuje, analizuje i rejestruje ogromną liczbę CV kandydatów w formacie Word lub PDF do bazy danych) — Roboty analizują wszystkie CV kandydatów wysyłane e-mailem i automatycznie rejestrują i aktualizują bazę danych 24 godziny na dobę, znacznie redukując czas i koszty pracy.\n② 'Inteligentny System Oceny'\n(System, który odczytuje i analizuje opis stanowiska od strony rekrutującej, aby bezbłędnie wybrać najlepszych kandydatów)\nDzięki wykorzystaniu takiej technologii IT, umożliwiamy działania rekrutacyjne, które dążą do szybkości i wysokiej efektywności."
-        },
-        {
-          "title": "Obsługa w Języku Japońskim",
-          "content": "Aby dokładnie zrozumieć profil talentów wymaganych przez firmę, słuchamy Państwa życzeń w języku japońskim i przedstawiamy precyzyjnie dobranych kandydatów. Wszystkie konsultacje z klientami są całkowicie poufne."
-        },
-        {
-          "title": "Kompleksowa Obsługa Posprzedażna",
-          "content": "Po zatrudnieniu kandydata, jeśli wystąpią jakiekolwiek tarcia, nasi konsultanci interweniują między firmą a kandydatem, aby szybko rozwiązać problem."
-        }
+    "for_companies": {
+      "title": "Dla Firm",
+      "description": "Rekrutacja w Europie zazwyczaj wymaga czasu, jednak nasza firma wykorzystuje najnowsze technologie IT oraz sztuczną inteligencję, aby prowadzić szybkie i efektywne procesy rekrutacyjne. Dzięki sprawdzonemu systemowi jesteśmy w stanie zatrudniać odpowiednich kandydatów w odpowiednim czasie, obejmując takie kraje jak Niemcy, Polska, Czechy, Słowacja, Francja, Węgry, Rumunia i Ukraina. Od ponad 16 lat skutecznie prowadzimy rekrutacje na szeroki zakres stanowisk, w tym executive search, dla firm japońskich i niemieckich. Nasze bogate doświadczenie oraz udokumentowane sukcesy pozwalają nam wspierać naszych klientów w dopasowaniu kluczowych pracowników, którzy przyczyniają się do rozwoju ich biznesu.",
+      "button": "Jak to działa?",
+      "modal": {
+        "main_title": "Mechanizm Usługi",
+        "sections": [
+          {
+            "title": "Przedstawienie Kandydatów w Ciągu 24 Godzin (z Wyjątkiem Headhuntingu i Specjalnych Stanowisk)",
+            "content": "Wyposażeni w najnowsze funkcje rekrutacyjne IT i AI, terminowo przedstawiamy doskonałych kandydatów!"
+          },
+          {
+            "title": "Krok Przed Konkurencją",
+            "content": "W obliczu rosnącej konkurencji między firmami, zabezpieczenie bardziej utalentowanych pracowników przed konkurencją szybko i sprawnie jest ważnym czynnikiem w ustanowieniu przewagi konkurencyjnej. Jako 'firma rekrutacyjna działająca 24 godziny na dobę', wykorzystujemy najnowszą technologię IT, aby osiągnąć działania rekrutacyjne, które dążą do szybkości, jakości i wysokiej efektywności."
+          },
+          {
+            "title": "Działania Rekrutacyjne w Erze Bez Granic",
+            "content": "Dzięki wykorzystaniu najnowszej technologii IT, działania rekrutacyjne stają się bezgraniczne. Ustanowiliśmy centrum badawczo-oceniające w Polsce, które obejmuje całą Europę, prowadząc działania rekrutacyjne w Polsce, Niemczech, Belgii, Czechach, Słowacji, Wielkiej Brytanii, Francji, na Węgrzech, w Rumunii i na Ukrainie."
+          },
+          {
+            "title": "Rekrutacja Doskonałych Talentów od Konkurencji poprzez Headhunting",
+            "content": "Mamy bogate doświadczenie w headhuntingu w Europie i przedstawiamy precyzyjnie dobranych kandydatów w rozsądnych cenach. Jako podwykonawca dla jednej z wiodących niemieckich firm headhuntingowych, prowadzimy działania headhuntingowe głównie w Niemczech, Francji, Belgii, Polsce, Czechach, Słowacji, na Węgrzech i w Rumunii, a nasza moc headhuntingowa jest na najwyższym poziomie wśród europejskich firm rekrutacyjnych."
+          },
+          {
+            "title": "Dążenie do Nagłego Wzrostu Wyników dzięki Headhuntingowi",
+            "content": "Headhunting jest powszechną metodą w Europie dla firm, które chcą poprawić wyniki lub zatrudnić kluczowych pracowników od konkurencji. Na przykład, jeśli firma sprzedażowa zatrudni Sales Managera, Key Account Managera lub Marketing Managera od konkurenta z największym udziałem w rynku, może uzyskać wszystkie kluczowe informacje dotyczące działalności biznesowej, takie jak informacje o klientach, ceny sprzedaży, ceny zakupu, metody logistyki, metody sprzedaży, marketing i dostawcy, i znacznie poprawić wyniki dzięki zatrudnieniu takich kluczowych osób."
+          },
+          {
+            "title": "Największa Wielonarodowa Baza Danych Talentów w Przemyśle Rekrutacyjnym w Europie",
+            "content": "Posiadamy bogatą bazę danych osób pro-japońskich, mówiących po japońsku i rozumiejących japońską kulturę korporacyjną w różnych krajach europejskich (Niemcy, Wielka Brytania, Belgia, Francja, Polska, Czechy, Słowacja, Węgry, Rumunia, Ukraina itp.), i przedstawiamy najlepszych kandydatów dla japońskich firm."
+          },
+          {
+            "title": "16 Lat Osiągnięć w Rekrutacji Talentów",
+            "content": "Dzięki systemowi oceny talentów wypracowanemu przez ponad 16 lat doświadczenia, wybieramy talenty, które pasują lub nie pasują do kultury korporacyjnej japońskich firm, i przedstawiamy najlepszych i wysoko zatrzymywanych talentów. Od naszego założenia w 2009 roku, przedstawiliśmy talenty ponad 540 firmom i otrzymaliśmy wysokie oceny za wysoki wskaźnik dopasowania i zatrzymania zatrudnionych talentów."
+          },
+          {
+            "title": "Doświadczenie w Przeprowadzaniu Wywiadów z Ponad 30 000 Kandydatami",
+            "content": "W procesie selekcji talentów zawsze pojawia się wahanie. Konieczne jest określenie zdolności, osobowości i adaptacyjności kandydata w krótkim czasie podczas 1-2 godzinnej rozmowy kwalifikacyjnej przed zatrudnieniem. Dzięki 16-letniemu doświadczeniu w przeprowadzaniu wywiadów z ponad 30 000 kandydatami, dokładnie doradzamy w sprawie cech, mocnych i słabych stron kandydatów na podstawie profilu talentów poszukiwanych przez firmę."
+          },
+          {
+            "title": "Indywidualne Badania Wynagrodzeń dla Nowych Regionów Wejścia",
+            "content": "Dla firm planujących wejście na nowe regiony, przeprowadzamy badania wynagrodzeń firm w docelowych regionach i dostarczamy raporty. Nawet w tym samym kraju, poziomy wynagrodzeń mogą znacznie się różnić w zależności od regionu, stopy bezrobocia i obecności firm z stosunkowo wysokimi wynagrodzeniami, dlatego zaleca się przeprowadzenie badań wynagrodzeń firm w docelowych regionach z wyprzedzeniem."
+          },
+          {
+            "title": "Pierwsze w Przemyśle Rekrutacyjnym!",
+            "content": "<Zaawansowany Technologicznie Inteligentny System>\nWłasna Zaawansowana Technologia IT\n① 'Pełnie Zautomatyzowany System Skanowania CV'\n(System, który automatycznie odczytuje, analizuje i rejestruje ogromną liczbę CV kandydatów w formacie Word lub PDF do bazy danych) — Roboty analizują wszystkie CV kandydatów wysyłane e-mailem i automatycznie rejestrują i aktualizują bazę danych 24 godziny na dobę, znacznie redukując czas i koszty pracy.\n② 'Inteligentny System Oceny'\n(System, który odczytuje i analizuje opis stanowiska od strony rekrutującej, aby bezbłędnie wybrać najlepszych kandydatów)\nDzięki wykorzystaniu takiej technologii IT, umożliwiamy działania rekrutacyjne, które dążą do szybkości i wysokiej efektywności."
+          },
+          {
+            "title": "Obsługa w Języku Japońskim",
+            "content": "Aby dokładnie zrozumieć profil talentów wymaganych przez firmę, słuchamy Państwa życzeń w języku japońskim i przedstawiamy precyzyjnie dobranych kandydatów. Wszystkie konsultacje z klientami są całkowicie poufne."
+          },
+          {
+            "title": "Kompleksowa Obsługa Posprzedażna",
+            "content": "Po zatrudnieniu kandydata, jeśli wystąpią jakiekolwiek tarcia, nasi konsultanci interweniują między firmą a kandydatem, aby szybko rozwiązać problem."
+          }
         ]
       },
       "items": {
@@ -214,7 +214,7 @@
     "ceo_message": {
       "title": "Wiadomość od CEO",
       "paragraph_1": "W dzisiejszym trudnym otoczeniu gospodarczym szybkie pozyskiwanie utalentowanych osób jest niezbędne do uzyskania przewagi konkurencyjnej.",
-      "paragraph_2": "Wykorzystujemy naszą globalną sieć i najnowocześniejsze systemy IT, takie jak „Inteligentny System Oceny” i „system rekrutacji AI”, aby wyszukiwać kandydatów 24/7. Nasze hasło „Firma rekrutacyjna walcząca 24 godziny na dobę” odzwierciedla nasze zaangażowanie w szybkość i jakość.",
+      "paragraph_2": "Wykorzystujemy naszą globalną sieć i najnowocześniejsze systemy IT, takie jak „Inteligentny System Oceny" i „system rekrutacji AI", aby wyszukiwać kandydatów 24/7. Nasze hasło „Firma rekrutacyjna walcząca 24 godziny na dobę" odzwierciedla nasze zaangażowanie w szybkość i jakość.",
       "paragraph_3": "Naszym celem jest szybkie przedstawianie najlepiej dopasowanych talentów i pełne wsparcie japońskich i niemieckich firm w Europie.",
       "paragraph_4": "Dzięki 16-letniemu doświadczeniu nadal rekrutujemy talenty, które napędzają sukces biznesowy.",
       "paragraph_5": "Przedstawiciel: Takeshige Yokota",
