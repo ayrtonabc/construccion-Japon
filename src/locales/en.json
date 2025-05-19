@@ -1,0 +1,349 @@
+{
+  "loading": "Loading page...",
+  "goodbye": "Goodbye!",
+  "navbar": {
+    "home": "Home",
+    "companies": "Companies",
+    "candidates": "Candidates",
+    "about": "About Us",
+    "jobs": "Jobs",
+    "contact": "Contact",
+    "start": "Get Started",
+    "question": "How can we help you?",
+    "for_candidate": "I'm looking for a job (Job Seeker)",
+    "for_candidate_title": "Job Seeker Information",
+    "for_companies": "I'm looking for employees (Employer)",
+    "for_companies_title": "Employer Information",
+    "back": "← Back to selection",
+    "company_form": {
+      "name": "Contact Name",
+      "email": "Work Email",
+      "phone": "Phone Number",
+      "industry": "Industry",
+      "country": "Country",
+      "state": "State",
+      "areas": "Areas of Interest / Roles Needed",
+      "submit": "Submit Inquiry"
+    }
+  },
+  "hero": {
+    "page_1": {
+      "title": "Find Top Talent Fast",
+      "subtitle": "4/7 AI-powered recruitment technology connecting European talent with leading Japanese companies",
+      "button": "View Open Positions"
+    },
+    "page_2": {
+      "title": "European Expertise",
+      "subtitle": "15 years of excellence in connecting Japanese companies with exceptional European talent",
+      "button": "About Us"
+    },
+    "page_3": {
+      "title": "Global Network",
+      "subtitle": "Covering key regions across Europe",
+      "button": "Contact Us"
+    }
+  },
+  "intro": {
+    "paragraph_1": "Leave your recruitment needs in Europe to us!",
+    "paragraph_2": "In recent years, the economic environment has become increasingly severe, and competition between rival companies is expected to become even more severe in the future. In this situation, securing talented people quickly and staying one step ahead of competitors is an important factor in establishing an advantage in competition between companies.",
+    "paragraph_3": "We make full use of our global network and cutting-edge IT systems, including the 'Intelligent Assessment System' and the 'Full Automation CV Scan System', allowing us to search for candidates quickly and 24 hours a day. Our recruitment team operates under the motto 'a recruitment company that fights 24 hours a day', emphasizing speed and quality.",
+    "paragraph_4": "With extensive experience in headhunting across Europe, we lead the recruitment industry with top-level capabilities and introduce pinpoint talent at reasonable prices.",
+    "paragraph_5": "To accurately understand the type of person a company is looking for, we listen carefully to their requests in Japanese. Our consultants prioritize understanding both candidates and companies deeply to ensure the best match.",
+    "paragraph_6": "We proudly serve the following countries:",
+    "paragraph_7": "We understand the importance of clear communication. That’s why we offer full support in Japanese for our clients in Japan. Our consultants take the time to deeply understand both the needs of your company and the qualities of each candidate — ensuring the right fit every time. And with reasonable and transparent pricing, you can focus on building your team without worrying about inflated costs."
+  },
+  "services": {
+    "service_1": {
+      "title": "Advanced AI Technology",
+      "description": "First in the industry to implement cutting-edge IT systems, including our ‘Intelligent Assessment System’ and ‘Full Automation CV Scan System’."
+    },
+    "service_2": {
+      "title": "24/7 Recruitment",
+      "description": "Our team operates under the motto ‘a recruitment company that fights 24 hours a day’, emphasizing speed and quality in our recruitment activities."
+    },
+    "service_3": {
+      "title": "European Expertise",
+      "description": "Leading the European recruitment industry with top-level headhunting capabilities and extensive experience since 2009."
+    },
+    "profile": {
+      "title": "Company Profile",
+      "description": "We take the time to thoroughly understand companies, including their corporate culture, history, philosophy, goals, and desired candidate profiles. This allows us to approach the best-matched individuals effectively.",
+      "icons": {
+        "icon_1": "Companies Served",
+        "icon_2": "Years Experience",
+        "icon_3": "Retention Rate"
+      }
+    },
+    "for_recrutiers": {
+      "title": "For Candidates",
+      "description_1": "We act as an intermediary between people looking to change jobs in Europe and companies based in Europe, and support you to ensure that your job hunting process goes smoothly until you join a company.",
+      "description_2": "We also provide advice on job hunting for those who are thinking about career advancement in the future, not right now. Even if you are currently employed and don't have much time, please feel free to contact us.",
+      "modal": {
+        "paragraph_1_title": "All services are free!",
+        "paragraph_1_content": "We do not charge any fees to registered users. From registration to employment, all services are free for those seeking to change jobs.",
+        "paragraph_2_confidentiality": "Additionally, we guarantee confidentiality with respect to your current employer and, in accordance with European personal data protection laws, we securely protect and manage your personal information.",
+        "section_service_flow_title": "Service Flow and Benefits",
+        "section_service_flow_content": "Once registered, a consultant from our recruitment team will contact you to present job offers that consider your experience, desires, and future career growth. If there is a company of interest, we can recommend you by highlighting your strengths. At that time, we will also inform you about key points for creating a resume that fits the company's selection criteria. Our consultants will also mediate in coordinating interview dates, employment dates, and salary negotiations.",
+        "section_career_europe_title": "Career Development in Europe",
+        "section_career_europe_content_1": "We also offer advice for career planning in Europe. Our consultants will listen to your past experience, skills, desires, and career plans. We will objectively evaluate your strengths and advise you on how to build a successful career in Europe. For those who are busy with work or have difficulty visiting our offices, we offer telephone consultations on weekends.",
+        "section_career_europe_content_2": "Depending on your experience and desires, we may suggest staying in your current job and improving your skills. We do not limit ourselves to job changes but propose methods to expand your possibilities.",
+        "section_executive_jobs_title": "Job Offers for Executive Positions",
+        "section_executive_jobs_content": "We have numerous job offers for executive positions such as candidates for managers, presidents, and directors of local subsidiaries. Depending on your skills, experience, and aspirations, we can present you with unpublished offers, such as confidential projects, executive positions, and urgent vacancies. We recommend registering your resume, employment history, or CV in English.",
+        "section_negotiation_title": "Salary and Condition Negotiations",
+        "section_negotiation_content": "We will negotiate with the company according to your desires in aspects such as salary negotiation and coordination of the employment date, which may be difficult to address. Additionally, once you receive an offer, the job change activity does not end. If there is a lack of information necessary to decide on your employment, we will obtain as much information as possible from the company and support your decision.",
+        "section_aftercare_title": "Post-Employment Care",
+        "section_aftercare_content": "After changing jobs and starting work, you may feel confused by differences in corporate culture. If you have any concerns or dissatisfaction after employment, do not hesitate to consult us at any time.",
+        "final_message": "We support the career development and success of all job seekers in Europe!"
+      }
+    },
+    "for_companies": {
+    "title": "For Companies",
+    "description": "Recruiting in Europe generally takes time, but we use the latest IT and AI to prioritize speed and efficiency in our recruiting activities.",
+    "button": "How it works?",
+    "modal": {
+      "main_title": "Service Mechanism",
+      "sections": [
+        {
+          "title": "Introduction of Candidates Within 24 Hours (Excluding Headhunting and Special Positions)",
+          "content": "Equipped with the latest IT and AI recruitment functions, we timely introduce excellent talent!"
+        },
+        {
+          "title": "Staying Ahead of Competitors",
+          "content": "In the midst of increasing competition among companies, securing more excellent talent ahead of competitors quickly and swiftly is an important factor in establishing a competitive advantage. As a '24-hour recruiting company,' we utilize the latest IT technology to achieve recruitment activities that pursue speed, quality, and high efficiency."
+        },
+        {
+          "title": "Recruitment Activities in a Borderless Era",
+          "content": "With the use of the latest IT technology, recruitment activities are becoming borderless. We have established a research and assessment center in Poland that covers all of Europe, conducting recruitment activities in Poland, Germany, Belgium, Czech Republic, Slovakia, UK, France, Hungary, Romania, and Ukraine."
+        },
+        {
+          "title": "Headhunting Excellent Talent from Competitors",
+          "content": "We have extensive experience in headhunting in Europe and introduce pinpoint talent at reasonable prices. As a subcontractor for a major German headhunting company, we conduct headhunting activities mainly in Germany, France, Belgium, Poland, Czech Republic, Slovakia, Hungary, and Romania, and our headhunting power is top-level among European recruitment companies."
+        },
+        {
+          "title": "Aiming for a Sudden Increase in Performance with Headhunting",
+          "content": "Headhunting is a common method in Europe for companies looking to improve performance or hire key talent from competitors. For example, if a sales company hires a Sales Manager, Key Account Manager, or Marketing Manager from a competitor with the top market share, they can obtain all key information for business operations such as customer information, sales prices, purchase prices, logistics methods, sales methods, marketing, and suppliers, and significantly improve performance with the entry of such key personnel."
+        },
+        {
+          "title": "Europe's Largest Multinational Talent Database in the Recruitment Industry",
+          "content": "We have a rich database of pro-Japanese, Japanese-speaking, and talent who understand Japanese corporate culture in various European countries (Germany, UK, Belgium, France, Poland, Czech Republic, Slovakia, Hungary, Romania, Ukraine, etc.), and introduce the best-fit talent for Japanese companies."
+        },
+        {
+          "title": "16 Years of Talent Recruitment Achievements",
+          "content": "With a talent evaluation system cultivated over more than 16 years of experience, we select talent that fits or does not fit the corporate culture of Japanese companies and introduce the best and highly retainable talent. Since our establishment in 2009, we have introduced talent to over 540 companies and have received high evaluations for the high fit and retention rates of the hired talent."
+        },
+        {
+          "title": "Interview Experience with Over 30,000 Candidates",
+          "content": "In the talent selection process, hesitation always arises. It is necessary to determine a candidate's abilities, personality, and adaptability in a short time during the 1-2 hour interview before hiring. With 16 years of experience interviewing over 30,000 candidates, we accurately advise on the characteristics, strengths, and weaknesses of candidates based on the talent profile sought by the company."
+        },
+        {
+          "title": "Individual Salary Surveys for New Entry Regions",
+          "content": "For companies planning to enter new regions, we conduct salary surveys of companies in the target regions and provide reports. Even within the same country, salary levels can vary significantly depending on the region, unemployment rate, and the presence of companies with relatively high salaries, so it is advisable to conduct salary surveys of companies in the target regions in advance."
+        },
+        {
+          "title": "First in the Recruitment Industry!",
+          "content": "<High-Tech Intelligent System>\nProprietary High-Tech IT Technology\n① 'Full Automation CV Scan System'\n(A system that automatically reads, analyzes, and registers a vast number of candidate CVs in Word or PDF format into the database) — Robots analyze all candidate CVs sent via email and automatically register and update the database 24 hours a day, significantly reducing time and labor costs.\n② 'Intelligent Assessment System'\n(A system that reads and analyzes the job description from the hiring side to pick up the best-fit talent without missing any) \nBy utilizing such IT technology, we enable recruitment activities that pursue speed and high efficiency."
+        },
+        {
+          "title": "Support in Japanese",
+          "content": "To accurately understand the talent profile required by the company, we listen to your requests in Japanese and introduce pinpoint talent. All consultations with customers are strictly confidential."
+        },
+        {
+          "title": "Comprehensive After-Sales Service",
+          "content": "After the candidate is hired, if any friction occurs, our consultants will intervene between the company and the candidate to quickly resolve the issue."
+        }
+        ]
+      },
+      "items": {
+        "item_1": "Our system ensures timely recruitment of personnel across Europe.",
+        "item_2": "For over 16 years, we have specialized in executive searches and introduced top-fit personnel to Japanese and German companies.",
+        "item_3": "With our proven track record and extensive experience, we support companies in finding key personnel for their success."
+      }
+    },
+    "steps": {
+      "title": "Simple Process",
+      "description": "A clear and transparent process designed for your peace of mind",
+      "steps": {
+        "step_1": {
+          "title": "Proposal for the company",
+          "description": "We gather details about your needs, candidate type, company philosophy, goals, and conditions to start recruitment after agreeing on terms."
+        },
+        "step_2": {
+          "title": "Target analysis and search",
+          "description": "We create a target company list with you and search for candidates in our databases and public ads."
+        },
+        "step_3": {
+          "title": "Talent search by headhunting",
+          "description": "We use our global network for fast headhunting to find talent."
+        },
+        "step_4": {
+          "title": "Contacting candidates",
+          "description": "Our consultants contact candidates, explain the job briefly, and confirm interest without revealing the company name until they intend to apply."
+        },
+        "step_5": {
+          "title": "Interviewing candidates",
+          "description": "We interview interested candidates, explain the job and company, and assess their background and fit for the role."
+        },
+        "step_6": {
+          "title": "Interview by the hiring company",
+          "description": "We submit candidate reports to the company, confirm interview interest, and arrange schedules."
+        },
+        "step_7": {
+          "title": "Hiring decision",
+          "description": "After interviews, the company decides to hire; we manage offers and assist with acceptance."
+        },
+        "step_8": {
+          "title": "After hiring",
+          "description": "We address any post-hiring issues between the candidate and the company with flexible solutions."
+        }
+      }
+    },
+    "confidentiality": {
+      "title": "Our Commitment to Confidentiality",
+      "description": "We ensure complete confidentiality regarding your current employment and handle all personal information in accordance with European Personal Information Protection Law."
+    }
+  },
+  "jobs": {
+    "title": "Latest Job Opportunities",
+    "description": "Connect with leading Japanese companies across Europe",
+    "button": "Learn more",
+    "view_all": "View All Positions"
+  },
+  "about": {
+    "title": "About",
+    "description": "A recruitment company covering Europe, established in 2009. For 16 years, we have introduced talent to over 540 companies, mainly Japanese and German firms. Our candidates have contributed to long-term company growth, earning high retention and fit rates.",
+    "ceo_message": {
+      "title": "CEO's Message",
+      "paragraph_1": "In today’s challenging economic environment, securing talented individuals quickly is essential for gaining a competitive edge.",
+      "paragraph_2": "We leverage our global network and cutting-edge IT systems, such as the 'Intelligent Assessment System' and 'AI recruitment system,' to search for candidates 24/7. Our slogan, 'A recruitment company fighting 24 hours a day,' reflects our commitment to speed and quality.",
+      "paragraph_3": "We aim to introduce the best-fit talent quickly and fully support Japanese and German companies in Europe.",
+      "paragraph_4": "With 16 years of experience, we continue to recruit talent that drives business success.",
+      "paragraph_5": "Representative: Takeshige Yokota",
+      "paragraph_6": "CEO, Recruit Europe"
+    },
+    "icons": {
+      "icon_1": "Companies Served",
+      "icon_2": "Years Experience",
+      "icon_3": "Candidates Interviewed",
+      "icon_4": "Retention Rate"
+    },
+    "paragraph_1": "For 20 years (16 at the current company), I have recruited for Japanese and German companies across Europe. ",
+    "paragraph_2": "I have interviewed over 10,000 candidates and gained diverse insights. As a subcontractor for a major German headhunting company, I have extensive experience in executive searches, primarily in Germany and Poland. Headhunting is a common practice among foreign companies, enabling them to recruit talent with valuable know-how from competitors. This method has helped many companies succeed.",
+    "paragraph_3": "For companies entering new markets, we conduct salary surveys and provide detailed reports.",
+    "paragraph_5": "Chairman of the Wroclaw branch of the Japanese Chamber of Commerce and Industry in Poland (2010-2020) for 10 years. During my tenure as chairman, I addressed various challenges and consultations for new and existing companies.",
+    "professional_background": {
+      "title": "Professional Background",
+      "items": {
+        "item_1": {
+          "title": "Fuji Heavy Industries (currently SUBARU)",
+          "description": "Automotive sales, production planning for horizontally opposed engines, etc."
+        },
+        "item_2": {
+          "title": "Kienbaum",
+          "description": "Germany's leading headhunting company, headhunter"
+        },
+        "item_3": {
+          "title": "PERFECT (formerly Pasona UK)",
+          "description": "Director"
+        },
+        "item_4": {
+          "title": "RECRUITMENT EUROPE",
+          "description": "Representative"
+        },
+        "item_5": {
+          "title": "BOARD MEMBER",
+          "description": "Major German headhunting company, GM of Polish branch"
+        }
+      }
+    },
+    "education": {
+      "title": "Education & Leadership",
+      "items": {
+        "item_1": {
+          "title": "Chuo University",
+          "description": "Master's degree in Policy Management"
+        },
+        "item_2": {
+          "title": "University of Economics",
+          "description": "PhD course completed at Warsaw"
+        }
+      }
+    },
+    "contact": {
+      "company_info": "Company Information",
+      "name": "Company Name",
+      "established": "Established",
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address"
+    }
+  },
+  "jobs_page": {
+    "title": "Available Positions",
+    "description": "Find your next career opportunity with leading Japanese companies across Europe",
+    "select": {
+      "view_all": "All Locations",
+      "placeholder": "Search jobs by title or company..."
+    },
+    "details": "View Details"
+  },
+  "job_page": {
+    "back": "Back to Jobs",
+    "apply_now": "Apply Now",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email_address": "Email address",
+    "phone": "Phone",
+    "experience": "Experience",
+    "skills": "Skills",
+    "cv": "CV",
+    "desired_salary": "Desired salary",
+    "availability": "Availability",
+    "linkedin": "Linkedin",
+    "portfolio": "Portfolio",
+    "message": "Message",
+    "submit_application": "Submit application",
+    "job_description": "Job Description",
+    "requirements": "Job Requirements",
+    "responsibilities": "Responsibilities",
+    "benefits": "Benefits",
+    "about": "About",
+    "apply_for": "Apply for",
+    "upload_cv": "Upload CV (PDF, DOC, DOCX)",
+    "upload_file": "Upload a file",
+    "drag_and_drop": "or drag and drop",
+    "submit": "Submit Application"
+  },
+  "footer": {
+    "description": "Leading Japanese HR consulting and recruitment services across Europe since 2009.",
+    "links": "Quick Links",
+    "services": "Services",
+    "about": "About Us",
+    "jobs": "Job Listings",
+    "contact": "Contact",
+    "locations": "Our Locations",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service",
+    "follow_us": "Follow Us",
+    "germany": "Germany",
+    "poland": "Poland",
+    "czech": "Czech Republic",
+    "france": "France"
+  },
+  "contact_form": {
+    "title": "Contact Us",
+    "text": "Get in touch with our recruitment experts to discuss your hiring needs or career opportunities.",
+    "offices": "Our Offices",
+    "address": "Main Office - Poland",
+    "phone": "Phone",
+    "email": "Email",
+    "send_message": "Send us a Message",
+    "name": "Full Name",
+    "email_address": "Email Address",
+    "company": "Company Name",
+    "message": "Message",
+    "submit": "Send message"
+  },
+  "common": {
+    "close": "Close"
+  }
+}

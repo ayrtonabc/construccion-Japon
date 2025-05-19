@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base styles */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply text-gray-900 antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display tracking-tight;
+  }
+}
+
+/* Custom animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Component styles */
+.nav-link {
+  @apply text-gray-700 hover:text-primary-600 transition-colors duration-200;
+}
+
+.btn-primary {
+  @apply px-6 py-3 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors duration-200 inline-flex items-center justify-center font-medium shadow-sm hover:shadow-md;
+}
+
+.btn-secondary {
+  @apply px-6 py-3 border border-primary-600 text-primary-600 rounded-lg hover:bg-primary-50 transition-colors duration-200 inline-flex items-center justify-center font-medium;
+}
+
+.card {
+  @apply bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow duration-200;
+}
+
+.section-title {
+  @apply text-4xl font-bold text-gray-900 mb-4;
+}
+
+.section-subtitle {
+  @apply text-xl text-gray-600 max-w-3xl mx-auto;
+}
+
+/* Process step animation */
+.process-step {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+.process-line {
+  @apply bg-gradient-to-b from-primary-600 to-transparent;
+}
+
+/* Hover effects */
+.hover-lift {
+  @apply transition-transform duration-200 hover:-translate-y-1;
+}
+
+/* Focus styles */
+.focus-ring {
+  @apply focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2;
+}

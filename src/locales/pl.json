@@ -1,0 +1,349 @@
+{
+  "loading": "Ładowanie strony...",
+  "goodbye": "Do widzenia!",
+  "navbar": {
+    "home": "Strona główna",
+    "companies": "Dla Firm",
+    "candidates": "Dla Kandydatów",
+    "about": "O nas",
+    "jobs": "Oferty Pracy",
+    "contact": "Kontakt",
+    "start": "Rozpocznij",
+    "question": "Jak możemy pomóc?",
+    "for_candidate": "Szukam pracy (Kandydat)",
+    "for_candidate_title": "Informacje dla Kandydata",
+    "for_companies": "Szukam pracowników (Pracodawca)",
+    "for_companies_title": "Informacje dla Pracodawcy",
+    "back": "← Wróć do wyboru",
+    "company_form": {
+      "name": "Imię i nazwisko osoby kontaktowej",
+      "email": "Służbowy adres e-mail",
+      "phone": "Numer telefonu",
+      "industry": "Branża",
+      "country": "Kraj",
+      "state": "Województwo/Region",
+      "areas": "Obszary zainteresowania / Potrzebne role",
+      "submit": "Wyślij zapytanie"
+    }
+  },
+  "hero": {
+    "page_1": {
+      "title": "Znajdź Najlepszych Specjalistów Szybko",
+      "subtitle": "Technologia rekrutacyjna oparta na AI 24/7, łącząca europejskie talenty z wiodącymi japońskimi firmami.",
+      "button": "Zobacz Otwarte Pozycje"
+    },
+    "page_2": {
+      "title": "Europejska Ekspertyza",
+      "subtitle": "15 lat doskonałości w łączeniu japońskich firm z wyjątkowymi europejskimi talentami.",
+      "button": "O Nas"
+    },
+    "page_3": {
+      "title": "Globalna Sieć",
+      "subtitle": "Obsługujemy kluczowe regiony w całej Europie.",
+      "button": "Skontaktuj się z Nami"
+    }
+  },
+  "intro": {
+    "paragraph_1": "Zostaw nam swoje potrzeby rekrutacyjne w Europie!",
+    "paragraph_2": "W ostatnich latach otoczenie gospodarcze staje się coraz trudniejsze, a konkurencja między rywalizującymi firmami będzie w przyszłości jeszcze bardziej zacięta. W tej sytuacji szybkie pozyskanie utalentowanych osób i wyprzedzenie konkurencji jest ważnym czynnikiem w budowaniu przewagi konkurencyjnej.",
+    "paragraph_3": "W pełni wykorzystujemy naszą globalną sieć oraz najnowocześniejsze systemy IT, w tym „Inteligentny System Oceny” i „System Pełnej Automatyzacji Skanowania CV”, co pozwala nam szybko wyszukiwać kandydatów przez 24 godziny na dobę. Nasz zespół rekrutacyjny działa pod hasłem „firma rekrutacyjna, która walczy 24 godziny na dobę”, kładąc nacisk na szybkość i jakość.",
+    "paragraph_4": "Dzięki bogatemu doświadczeniu w headhuntingu w całej Europie, jesteśmy liderem w branży rekrutacyjnej, oferując najwyższej klasy usługi i przedstawiając precyzyjnie dobranych kandydatów w rozsądnych cenach.",
+    "paragraph_5": "Aby dokładnie zrozumieć, jakiego rodzaju osoby poszukuje firma, uważnie wsłuchujemy się в ich prośby w języku japońskim. Nasi konsultanci priorytetowo traktują dogłębne zrozumienie zarówno kandydatów, jak i firm, aby zapewnić najlepsze dopasowanie.",
+    "paragraph_6": "Z dumą obsługujemy następujące kraje:",
+    "paragraph_7": "Rozumiemy znaczenie jasnej komunikacji. Dlatego oferujemy pełne wsparcie w języku japońskim dla naszych klientów w Japonii. Nasi konsultanci poświęcają czas na dogłębne zrozumienie zarówno potrzeb Twojej firmy, jak i cech każdego kandydata – zapewniając za każdym razem odpowiednie dopasowanie. A dzięki rozsądnym i przejrzystym cenom możesz skupić się na budowaniu swojego zespołu, nie martwiąc się o zawyżone koszty."
+  },
+  "services": {
+    "service_1": {
+      "title": "Zaawansowana Technologia AI",
+      "description": "Jako pierwsi w branży wdrożyliśmy najnowocześniejsze systemy IT, w tym nasz „Inteligentny System Oceny” oraz „System Pełnej Automatyzacji Skanowania CV”."
+    },
+    "service_2": {
+      "title": "Rekrutacja 24/7",
+      "description": "Nasz zespół działa pod hasłem „firma rekrutacyjna, która walczy 24 godziny na dobę”, kładąc nacisk na szybkość i jakość naszych działań rekrutacyjnych."
+    },
+    "service_3": {
+      "title": "Europejska Ekspertyza",
+      "description": "Jesteśmy liderem europejskiej branży rekrutacyjnej dzięki najwyższej klasy możliwościom headhuntingu i bogatemu doświadczeniu od 2009 roku."
+    },
+    "profile": {
+      "title": "Profil Firmy",
+      "description": "Poświęcamy czas na dogłębne zrozumienie firm, w tym ich kultury korporacyjnej, historii, filozofii, celów oraz pożądanych profili kandydatów. Pozwala nam to skutecznie docierać do najlepiej dopasowanych osób.",
+      "icons": {
+        "icon_1": "Obsłużone Firmy",
+        "icon_2": "Lata Doświadczenia",
+        "icon_3": "Wskaźnik Zatrzymania"
+      }
+    },
+    "for_recrutiers": {
+      "title": "Dla Kandydatów",
+      "description_1": "Działamy jako pośrednik między osobami poszukującymi zmiany pracy w Europie a firmami z siedzibą w Europie, wspierając Cię, aby proces poszukiwania pracy przebiegał sprawnie aż do momentu dołączenia do firmy.",
+      "description_2": "Udzielamy również porad dotyczących poszukiwania pracy osobom, które myślą o rozwoju kariery w przyszłości, a niekoniecznie teraz. Nawet jeśli jesteś obecnie zatrudniony i nie masz dużo czasu, skontaktuj się z nami.",
+      "modal": {
+        "paragraph_1_title": "Wszystkie usługi są bezpłatne!",
+        "paragraph_1_content": "Nie pobieramy żadnych opłat od zarejestrowanych użytkowników. Od rejestracji do zatrudnienia, wszystkie usługi są bezpłatne dla osób poszukujących zmiany pracy.",
+        "paragraph_2_confidentiality": "Ponadto, gwarantujemy zachowanie poufności wobec obecnego pracodawcy i, zgodnie z europejskim prawem ochrony danych osobowych, chronimy i zarządzamy Twoimi danymi osobowymi w sposób bezpieczny.",
+        "section_service_flow_title": "Przebieg usługi i jej zalety",
+        "section_service_flow_content": "Po zarejestrowaniu się, konsultant z naszego zespołu rekrutacyjnego skontaktuje się z Tobą, aby przedstawić oferty pracy, które uwzględniają Twoje doświadczenie, oczekiwania i przyszły rozwój kariery. Jeśli jest firma, która Cię interesuje, możemy Cię polecić, podkreślając Twoje mocne strony. W tym momencie poinformujemy Cię również o kluczowych punktach tworzenia CV, które odpowiadają kryteriom selekcji firmy. Nasi konsultanci będą również pośredniczyć w koordynacji terminów rozmów kwalifikacyjnych, terminów zatrudnienia i negocjacjach wynagrodzenia.",
+        "section_career_europe_title": "Budowanie kariery w Europie",
+        "section_career_europe_content_1": "Oferujemy również doradztwo w zakresie planowania kariery w Europie. Nasi konsultanci wysłuchają Twojego dotychczasowego doświadczenia, umiejętności, oczekiwań i planów kariery. Obiektywnie ocenią Twoje atuty i mocne strony oraz doradzą, jak zbudować udaną karierę w Europie. Dla osób, które są zajęte pracą lub mają trudności z odwiedzeniem naszego biura, oferujemy konsultacje telefoniczne w weekendy.",
+        "section_career_europe_content_2": "W zależności od Twojego doświadczenia i oczekiwań, możemy zasugerować pozostanie w obecnej pracy i podnoszenie kwalifikacji. Nie ograniczymy się do zmiany pracy, ale zaproponujemy metody poszerzenia Twoich możliwości.",
+        "section_executive_jobs_title": "Oferty pracy dla stanowisk kierowniczych",
+        "section_executive_jobs_content": "Mamy wiele ofert pracy dla stanowisk kierowniczych, takich jak kandydaci na menedżerów, prezesów i dyrektorów lokalnych oddziałów. W zależności od Twoich umiejętności, doświadczenia i aspiracji, możemy przedstawić Ci niepublikowane oferty, takie jak projekty poufne, stanowiska kierownicze i pilne wakaty. Zalecamy zarejestrowanie swojego CV, historii zatrudnienia lub CV w języku angielskim.",
+        "section_negotiation_title": "Negocjacje wynagrodzenia i warunków",
+        "section_negotiation_content": "Negocjacje z firmą zgodnie z Twoimi oczekiwaniami w zakresie negocjacji wynagrodzenia i koordynacji terminu zatrudnienia, które mogą być trudne do poruszenia. Ponadto, po otrzymaniu oferty, nie kończy się proces zmiany pracy. Jeśli brakuje informacji niezbędnych do podjęcia decyzji o zatrudnieniu, uzyskamy jak najwięcej informacji od firmy i wspomożemy Twoją decyzję.",
+        "section_aftercare_title": "Opieka po zatrudnieniu",
+        "section_aftercare_content": "Po zmianie pracy i rozpoczęciu pracy możesz poczuć się zdezorientowany różnicami w kulturze korporacyjnej. Jeśli masz jakieś wątpliwości lub niezadowolenie po zatrudnieniu, nie wahaj się skontaktować z nami w dowolnym momencie.",
+        "final_message": "Wspieramy rozwój kariery i sukces wszystkich osób poszukujących pracy w Europie!"
+      }
+    },
+     "for_companies": {
+    "title": "Dla Firm",
+    "description": "Rekrutacja w Europie zazwyczaj zajmuje dużo czasu, ale my korzystamy z najnowszych technologii IT i AI, aby priorytetowo traktować szybkość i efektywność naszych działań rekrutacyjnych.",
+    "button": "Jak to działa?",
+    "modal": {
+      "main_title": "Mechanizm Usługi",
+      "sections": [
+        {
+          "title": "Przedstawienie Kandydatów w Ciągu 24 Godzin (z Wyjątkiem Headhuntingu i Specjalnych Stanowisk)",
+          "content": "Wyposażeni w najnowsze funkcje rekrutacyjne IT i AI, terminowo przedstawiamy doskonałych kandydatów!"
+        },
+        {
+          "title": "Krok Przed Konkurencją",
+          "content": "W obliczu rosnącej konkurencji między firmami, zabezpieczenie bardziej utalentowanych pracowników przed konkurencją szybko i sprawnie jest ważnym czynnikiem w ustanowieniu przewagi konkurencyjnej. Jako 'firma rekrutacyjna działająca 24 godziny na dobę', wykorzystujemy najnowszą technologię IT, aby osiągnąć działania rekrutacyjne, które dążą do szybkości, jakości i wysokiej efektywności."
+        },
+        {
+          "title": "Działania Rekrutacyjne w Erze Bez Granic",
+          "content": "Dzięki wykorzystaniu najnowszej technologii IT, działania rekrutacyjne stają się bezgraniczne. Ustanowiliśmy centrum badawczo-oceniające w Polsce, które obejmuje całą Europę, prowadząc działania rekrutacyjne w Polsce, Niemczech, Belgii, Czechach, Słowacji, Wielkiej Brytanii, Francji, na Węgrzech, w Rumunii i na Ukrainie."
+        },
+        {
+          "title": "Rekrutacja Doskonałych Talentów od Konkurencji poprzez Headhunting",
+          "content": "Mamy bogate doświadczenie w headhuntingu w Europie i przedstawiamy precyzyjnie dobranych kandydatów w rozsądnych cenach. Jako podwykonawca dla jednej z wiodących niemieckich firm headhuntingowych, prowadzimy działania headhuntingowe głównie w Niemczech, Francji, Belgii, Polsce, Czechach, Słowacji, na Węgrzech i w Rumunii, a nasza moc headhuntingowa jest na najwyższym poziomie wśród europejskich firm rekrutacyjnych."
+        },
+        {
+          "title": "Dążenie do Nagłego Wzrostu Wyników dzięki Headhuntingowi",
+          "content": "Headhunting jest powszechną metodą w Europie dla firm, które chcą poprawić wyniki lub zatrudnić kluczowych pracowników od konkurencji. Na przykład, jeśli firma sprzedażowa zatrudni Sales Managera, Key Account Managera lub Marketing Managera od konkurenta z największym udziałem w rynku, może uzyskać wszystkie kluczowe informacje dotyczące działalności biznesowej, takie jak informacje o klientach, ceny sprzedaży, ceny zakupu, metody logistyki, metody sprzedaży, marketing i dostawcy, i znacznie poprawić wyniki dzięki zatrudnieniu takich kluczowych osób."
+        },
+        {
+          "title": "Największa Wielonarodowa Baza Danych Talentów w Przemyśle Rekrutacyjnym w Europie",
+          "content": "Posiadamy bogatą bazę danych osób pro-japońskich, mówiących po japońsku i rozumiejących japońską kulturę korporacyjną w różnych krajach europejskich (Niemcy, Wielka Brytania, Belgia, Francja, Polska, Czechy, Słowacja, Węgry, Rumunia, Ukraina itp.), i przedstawiamy najlepszych kandydatów dla japońskich firm."
+        },
+        {
+          "title": "16 Lat Osiągnięć w Rekrutacji Talentów",
+          "content": "Dzięki systemowi oceny talentów wypracowanemu przez ponad 16 lat doświadczenia, wybieramy talenty, które pasują lub nie pasują do kultury korporacyjnej japońskich firm, i przedstawiamy najlepszych i wysoko zatrzymywanych talentów. Od naszego założenia w 2009 roku, przedstawiliśmy talenty ponad 540 firmom i otrzymaliśmy wysokie oceny za wysoki wskaźnik dopasowania i zatrzymania zatrudnionych talentów."
+        },
+        {
+          "title": "Doświadczenie w Przeprowadzaniu Wywiadów z Ponad 30 000 Kandydatami",
+          "content": "W procesie selekcji talentów zawsze pojawia się wahanie. Konieczne jest określenie zdolności, osobowości i adaptacyjności kandydata w krótkim czasie podczas 1-2 godzinnej rozmowy kwalifikacyjnej przed zatrudnieniem. Dzięki 16-letniemu doświadczeniu w przeprowadzaniu wywiadów z ponad 30 000 kandydatami, dokładnie doradzamy w sprawie cech, mocnych i słabych stron kandydatów na podstawie profilu talentów poszukiwanych przez firmę."
+        },
+        {
+          "title": "Indywidualne Badania Wynagrodzeń dla Nowych Regionów Wejścia",
+          "content": "Dla firm planujących wejście na nowe regiony, przeprowadzamy badania wynagrodzeń firm w docelowych regionach i dostarczamy raporty. Nawet w tym samym kraju, poziomy wynagrodzeń mogą znacznie się różnić w zależności od regionu, stopy bezrobocia i obecności firm z stosunkowo wysokimi wynagrodzeniami, dlatego zaleca się przeprowadzenie badań wynagrodzeń firm w docelowych regionach z wyprzedzeniem."
+        },
+        {
+          "title": "Pierwsze w Przemyśle Rekrutacyjnym!",
+          "content": "<Zaawansowany Technologicznie Inteligentny System>\nWłasna Zaawansowana Technologia IT\n① 'Pełnie Zautomatyzowany System Skanowania CV'\n(System, który automatycznie odczytuje, analizuje i rejestruje ogromną liczbę CV kandydatów w formacie Word lub PDF do bazy danych) — Roboty analizują wszystkie CV kandydatów wysyłane e-mailem i automatycznie rejestrują i aktualizują bazę danych 24 godziny na dobę, znacznie redukując czas i koszty pracy.\n② 'Inteligentny System Oceny'\n(System, który odczytuje i analizuje opis stanowiska od strony rekrutującej, aby bezbłędnie wybrać najlepszych kandydatów)\nDzięki wykorzystaniu takiej technologii IT, umożliwiamy działania rekrutacyjne, które dążą do szybkości i wysokiej efektywności."
+        },
+        {
+          "title": "Obsługa w Języku Japońskim",
+          "content": "Aby dokładnie zrozumieć profil talentów wymaganych przez firmę, słuchamy Państwa życzeń w języku japońskim i przedstawiamy precyzyjnie dobranych kandydatów. Wszystkie konsultacje z klientami są całkowicie poufne."
+        },
+        {
+          "title": "Kompleksowa Obsługa Posprzedażna",
+          "content": "Po zatrudnieniu kandydata, jeśli wystąpią jakiekolwiek tarcia, nasi konsultanci interweniują między firmą a kandydatem, aby szybko rozwiązać problem."
+        }
+        ]
+      },
+      "items": {
+        "item_1": "Nasz system zapewnia terminową rekrutację personelu w całej Europie.",
+        "item_2": "Od ponad 16 lat specjalizujemy się w poszukiwaniach na stanowiska kierownicze i przedstawiamy najlepiej dopasowany personel japońskim i niemieckim firmom.",
+        "item_3": "Dzięki naszemu udokumentowanemu doświadczeniu i bogatemu doświadczeniu wspieramy firmy w znajdowaniu kluczowego personelu dla ich sukcesu."
+      }
+    },
+    "steps": {
+      "title": "Prosty Proces",
+      "description": "Jasny i przejrzysty proces zaprojektowany dla Twojego spokoju ducha",
+      "steps": {
+        "step_1": {
+          "title": "Propozycja dla firmy",
+          "description": "Zbieramy szczegóły dotyczące Twoich potrzeb, typu kandydata, filozofii firmy, celów i warunków, aby rozpocząć rekrutację po uzgodnieniu warunków."
+        },
+        "step_2": {
+          "title": "Analiza docelowa i wyszukiwanie",
+          "description": "Tworzymy z Tobą listę firm docelowych i wyszukujemy kandydatów w naszych bazach danych oraz ogłoszeniach publicznych."
+        },
+        "step_3": {
+          "title": "Wyszukiwanie talentów poprzez headhunting",
+          "description": "Korzystamy z naszej globalnej sieci do szybkiego headhuntingu w celu znalezienia talentów."
+        },
+        "step_4": {
+          "title": "Kontakt z kandydatami",
+          "description": "Nasi konsultanci kontaktują się z kandydatami, krótko wyjaśniają stanowisko i potwierdzają zainteresowanie, nie ujawniając nazwy firmy, dopóki nie zamierzają aplikować."
+        },
+        "step_5": {
+          "title": "Rozmowy z kandydatami",
+          "description": "Przeprowadzamy rozmowy z zainteresowanymi kandydatami, wyjaśniamy stanowisko i firmę oraz oceniamy ich doświadczenie i dopasowanie do roli."
+        },
+        "step_6": {
+          "title": "Rozmowa kwalifikacyjna w firmie zatrudniającej",
+          "description": "Przesyłamy raporty kandydatów do firmy, potwierdzamy zainteresowanie rozmową i ustalamy harmonogramy."
+        },
+        "step_7": {
+          "title": "Decyzja o zatrudnieniu",
+          "description": "Po rozmowach kwalifikacyjnych firma decyduje o zatrudnieniu; zarządzamy ofertami i pomagamy w ich akceptacji."
+        },
+        "step_8": {
+          "title": "Po zatrudnieniu",
+          "description": "Rozwiązujemy wszelkie problemy pojawiające się po zatrudnieniu między kandydatem a firmą, oferując elastyczne rozwiązania."
+        }
+      }
+    },
+    "confidentiality": {
+      "title": "Nasze Zobowiązanie do Poufności",
+      "description": "Zapewniamy pełną poufność dotyczącą Twojego obecnego zatrudnienia i przetwarzamy wszystkie dane osobowe zgodnie z europejskim prawem o ochronie danych osobowych."
+    }
+  },
+  "jobs": {
+    "title": "Najnowsze Oferty Pracy",
+    "description": "Połącz się z wiodącymi japońskimi firmami w całej Europie",
+    "button": "Dowiedz się więcej",
+    "view_all": "Zobacz Wszystkie Pozycje"
+  },
+  "about": {
+    "title": "O nas",
+    "description": "Firma rekrutacyjna obejmująca Europę, założona w 2009 roku. Przez 16 lat przedstawiliśmy talenty ponad 540 firmom, głównie japońskim i niemieckim. Nasi kandydaci przyczynili się do długoterminowego wzrostu firm, uzyskując wysokie wskaźniki utrzymania i dopasowania.",
+    "ceo_message": {
+      "title": "Wiadomość od CEO",
+      "paragraph_1": "W dzisiejszym trudnym otoczeniu gospodarczym szybkie pozyskiwanie utalentowanych osób jest niezbędne do uzyskania przewagi konkurencyjnej.",
+      "paragraph_2": "Wykorzystujemy naszą globalną sieć i najnowocześniejsze systemy IT, takie jak „Inteligentny System Oceny” i „system rekrutacji AI”, aby wyszukiwać kandydatów 24/7. Nasze hasło „Firma rekrutacyjna walcząca 24 godziny na dobę” odzwierciedla nasze zaangażowanie w szybkość i jakość.",
+      "paragraph_3": "Naszym celem jest szybkie przedstawianie najlepiej dopasowanych talentów i pełne wsparcie japońskich i niemieckich firm w Europie.",
+      "paragraph_4": "Dzięki 16-letniemu doświadczeniu nadal rekrutujemy talenty, które napędzają sukces biznesowy.",
+      "paragraph_5": "Przedstawiciel: Takeshige Yokota",
+      "paragraph_6": "CEO, Recruit Europe"
+    },
+    "icons": {
+      "icon_1": "Obsłużone Firmy",
+      "icon_2": "Lata Doświadczenia",
+      "icon_3": "Przeprowadzone Rozmowy Kwalifikacyjne",
+      "icon_4": "Wskaźnik Utrzymania"
+    },
+    "paragraph_1": "Od 20 lat (16 w obecnej firmie) rekrutuję dla japońskich i niemieckich firm w całej Europie.",
+    "paragraph_2": "Przeprowadziłem rozmowy kwalifikacyjne z ponad 10 000 kandydatów i zdobyłem różnorodne spostrzeżenia. Jako podwykonawca dużej niemieckiej firmy headhunterskiej posiadam bogate doświadczenie w poszukiwaniach na stanowiska kierownicze, głównie w Niemczech i Polsce. Headhunting jest powszechną praktyką wśród zagranicznych firm, umożliwiającą rekrutację talentów z cennym know-how od konkurencji. Ta metoda pomogła wielu firmom odnieść sukces.",
+    "paragraph_3": "Dla firm wchodzących na nowe rynki przeprowadzamy badania wynagrodzeń i dostarczamy szczegółowe raporty.",
+    "paragraph_5": "Przewodniczący wrocławskiego oddziału Japońskiej Izby Przemysłowo-Handlowej w Polsce (2010-2020) przez 10 lat. Podczas mojej kadencji jako przewodniczący zajmowałem się różnymi wyzwaniami i konsultacjami dla nowych i istniejących firm.",
+    "professional_background": {
+      "title": "Doświadczenie Zawodowe",
+      "items": {
+        "item_1": {
+          "title": "Fuji Heavy Industries (obecnie SUBARU)",
+          "description": "Sprzedaż samochodów, planowanie produkcji silników typu bokser itp."
+        },
+        "item_2": {
+          "title": "Kienbaum",
+          "description": "Wiodąca niemiecka firma headhunterska, headhunter"
+        },
+        "item_3": {
+          "title": "PERFECT (dawniej Pasona UK)",
+          "description": "Dyrektor"
+        },
+        "item_4": {
+          "title": "RECRUITMENT EUROPE",
+          "description": "Przedstawiciel"
+        },
+        "item_5": {
+          "title": "CZŁONEK ZARZĄDU",
+          "description": "Duża niemiecka firma headhunterska, GM polskiego oddziału"
+        }
+      }
+    },
+    "education": {
+      "title": "Wykształcenie i Przywództwo",
+      "items": {
+        "item_1": {
+          "title": "Uniwersytet Chuo",
+          "description": "Magister zarządzania polityką"
+        },
+        "item_2": {
+          "title": "Szkoła Główna Handlowa w Warszawie",
+          "description": "Ukończony kurs doktorancki"
+        }
+      }
+    },
+    "contact": {
+      "company_info": "Informacje o Firmie",
+      "name": "Nazwa Firmy",
+      "established": "Założona",
+      "phone": "Telefon",
+      "email": "Email",
+      "address": "Adres"
+    }
+  },
+  "jobs_page": {
+    "title": "Dostępne Stanowiska",
+    "description": "Znajdź swoją następną szansę zawodową w wiodących japońskich firmach w całej Europie",
+    "select": {
+      "view_all": "Wszystkie Lokalizacje",
+      "placeholder": "Szukaj ofert pracy według tytułu lub firmy..."
+    },
+    "details": "Zobacz Szczegóły"
+  },
+  "job_page": {
+    "back": "Wróć do Ofert Pracy",
+    "apply_now": "Aplikuj Teraz",
+    "first_name": "Imię",
+    "last_name": "Nazwisko",
+    "email_address": "Adres email",
+    "phone": "Telefon",
+    "experience": "Doświadczenie",
+    "skills": "Umiejętności",
+    "cv": "CV",
+    "desired_salary": "Oczekiwane wynagrodzenie",
+    "availability": "Dostępność",
+    "linkedin": "LinkedIn",
+    "portfolio": "Portfolio",
+    "message": "Wiadomość",
+    "submit_application": "Wyślij aplikację",
+    "job_description": "Opis Stanowiska",
+    "requirements": "Wymagania",
+    "responsibilities": "Obowiązki",
+    "benefits": "Benefity",
+    "about": "O firmie",
+    "apply_for": "Aplikuj na",
+    "upload_cv": "Załącz CV (PDF, DOC, DOCX)",
+    "upload_file": "Załącz plik",
+    "drag_and_drop": "lub przeciągnij i upuść",
+    "submit": "Wyślij Aplikację"
+  },
+  "footer": {
+    "description": "Wiodące japońskie usługi doradztwa personalnego i rekrutacji w całej Europie od 2009 roku.",
+    "links": "Szybkie Linki",
+    "services": "Usługi",
+    "about": "O Nas",
+    "jobs": "Oferty Pracy",
+    "contact": "Kontakt",
+    "locations": "Nasze Lokalizacje",
+    "privacy_policy": "Polityka Prywatności",
+    "terms_of_service": "Warunki Świadczenia Usług",
+    "follow_us": "Śledź Nas",
+    "germany": "Niemcy",
+    "poland": "Polska",
+    "czech": "Czechy",
+    "france": "Francja"
+  },
+  "contact_form": {
+    "title": "Skontaktuj się z Nami",
+    "text": "Skontaktuj się z naszymi ekspertami ds. rekrutacji, aby omówić swoje potrzeby rekrutacyjne lub możliwości kariery.",
+    "offices": "Nasze Biura",
+    "address": "Główne Biuro - Polska",
+    "phone": "Telefon",
+    "email": "Email",
+    "send_message": "Wyślij Nam Wiadomość",
+    "name": "Imię i Nazwisko",
+    "email_address": "Adres Email",
+    "company": "Nazwa Firmy",
+    "message": "Wiadomość",
+    "submit": "Wyślij wiadomość"
+  },
+  "common": {
+    "close": "Zamknij"
+  }
+}
